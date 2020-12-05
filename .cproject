@@ -53,6 +53,8 @@
 									<listOptionValue builtIn="false" value="&quot;../libdaisy/Middlewares/Third_Party/FatFs/src&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;../libdaisy/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;../libdaisy/Middlewares/ST/STM32_USB_Device_Library/Core/Inc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../DaisySP&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../DaisySP/modules&quot;"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.1996473762" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
 							</tool>
@@ -79,6 +81,8 @@
 									<listOptionValue builtIn="false" value="&quot;../libdaisy/Middlewares/Third_Party/FatFs/src&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;../libdaisy/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;../libdaisy/Middlewares/ST/STM32_USB_Device_Library/Core/Inc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../DaisySP&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;../DaisySP/modules&quot;"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.input.cpp.2015097937" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.input.cpp"/>
 							</tool>
@@ -101,7 +105,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="libDaisy/Middlewares/Third_Party/FatFs/src/option/cc950.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc949.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc936.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc932.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc950.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc949.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc936.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc932.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DaisySP|libDaisy|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc950.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc949.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc936.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc932.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc950.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc949.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc936.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc932.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -203,7 +207,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="libDaisy/Middlewares/Third_Party/FatFs/src/option/cc950.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc949.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc936.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc932.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc950.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc949.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc936.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc932.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DaisySP|libDaisy|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc950.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc949.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc936.c|libDaisy/Middlewares/Third_Party/FatFs/src/option/cc932.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc950.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc949.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc936.c|libdaisy/Middlewares/Third_Party/FatFs/src/option/cc932.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
